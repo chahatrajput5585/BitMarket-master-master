@@ -17,10 +17,10 @@ const Footer = () => {
       >
         <div class="row mt-3">
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-            <h6 class="text-uppercase font-weight-bold">BitMarket</h6>
+            <h6 class="text-uppercase font-weight-bold">Cryptocurrency</h6>
             <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" />
             <p>
-              BitMarket is a cryptocurrency price-tracking website that allows
+              Cryptocurrency price-tracking website that allows
               you to monitor the price of any cryptocurrency with accurate data
               and real-time updates.
             </p>
@@ -61,10 +61,10 @@ const Footer = () => {
             />
 
             <p>
-              <i class="fa fa-phone mr-3 "></i> + 91 8800662900
+              <i class="fa fa-phone mr-3 "></i> + 91 9876543210
             </p>
             <p>
-              <i class="fa fa-phone mr-3"></i> + 91 9528105867
+              <i class="fa fa-phone mr-3"></i> + 91 9876543210
             </p>
           </div>
 
@@ -98,7 +98,7 @@ const Footer = () => {
 
       <div class="footer-copyright text-center py-3">
         © 2021 Copyright:
-        <a href="https://bitmarket.netlify.com"> BitMarket</a>
+        <a href="https://cryptocurrency-308.vercel.app/"> Cryptocurrency</a>
       </div>
     </footer>
   ); 

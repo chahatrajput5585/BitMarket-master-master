@@ -50,7 +50,7 @@ function Banner() {
 
             }}
           >
-            BitMarket
+            Cryptocurrency
           </Typography>
           <Typography
             variant="subtitle1"
